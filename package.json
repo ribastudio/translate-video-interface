@@ -1,0 +1,16 @@
+{
+  "name": "js-video-player",
+  "version": "1.0.0",
+  "description": "A interface for video transcripter player/editor",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lint": "^0.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Riba Jr",
+  "license": "ISC"
+}
